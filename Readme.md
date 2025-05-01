@@ -29,9 +29,6 @@ The form collects the following inputs:
 
 ---
 
-## 🔗 Live Demo:
-Add a GitHub Pages or CodePen link here (optional)
-
 ---
 
 ## 📽️ Demo Video:
